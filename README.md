@@ -1,7 +1,9 @@
 # saas-booking
 
 🟣 Super Admin — manages the whole system
+
 🟠 Tenant Admin — manages their own business (services, bookings)
+
 🟢 Client/Customer — books services
 
 
