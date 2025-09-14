@@ -1,0 +1,14 @@
+<?php
+
+namespace Modules\Service\Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use Modules\Service\Models\Service;
+
+class ServiceDatabaseSeeder extends Seeder
+{
+      public function run(): void
+    {
+        //Service::factory()->count(25)->create();
+    }
+}

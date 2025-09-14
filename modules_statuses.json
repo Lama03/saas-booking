@@ -1,0 +1,8 @@
+{
+    "Booking": true,
+    "User": true,
+    "Tenant": true,
+    "Service": true,
+    "Customer": true,
+    "Payment": true
+}
