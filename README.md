@@ -1,4 +1,7 @@
 # Saas Booking
+
+A cloud-based booking platform designed to help businesses manage appointments, clients, and resources efficiently. It offers online scheduling, automated reminders, payment integration, and real-time analytics to streamline operations and enhance customer experience.
+
 Here is the backend that was built with Laravel.
 
 🟣 Super Admin — manages the whole system
